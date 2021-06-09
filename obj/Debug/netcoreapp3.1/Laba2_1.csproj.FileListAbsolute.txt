@@ -1,0 +1,39 @@
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.exe
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.deps.json
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.json
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.dev.json
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.dll
+D:\labs\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csprojAssemblyReference.cache
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfoInputs.cache
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfo.cs
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csproj.CoreCompileInputs.cache
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.dll
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\labs\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.genruntimeconfig.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.exe
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.deps.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.dev.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.dll
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csprojAssemblyReference.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfoInputs.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfo.cs
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csproj.CoreCompileInputs.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.dll
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.genruntimeconfig.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.exe
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.deps.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.runtimeconfig.dev.json
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.dll
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\bin\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csprojAssemblyReference.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfoInputs.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.AssemblyInfo.cs
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.csproj.CoreCompileInputs.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.dll
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.pdb
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\ЛАБА 2\Laba2_1\obj\Debug\netcoreapp3.1\Laba2_1.genruntimeconfig.cache
